@@ -1,0 +1,29 @@
+# VoiceAIger
+
+> AI travel agent that calls you back in seconds with rebooking options and hotel suggestions after flight disruptions
+
+## Overview
+
+VoiceAIger is a voice-first AI service powered by Sabre GDS and Claude AI that handles flight cancellations and delays through automated phone calls. When a flight is disrupted, the system notifies users automatically and calls them within 30 seconds to search real-time flight inventory and hotel availability, completing rebooking in a single 2-minute conversation.
+
+## Key Features
+
+- **Voice-first AI**: Natural phone conversations without requiring app downloads or form submissions
+- **Real-time rebooking**: Access to live flight availability across hundreds of carriers via Sabre GDS
+- **Hotel suggestions**: Proactive hotel search near arrival airports for late-arriving rebooking options
+- **Instant confirmation**: Bookings created in Sabre GDS with confirmation numbers provided during the call
+- **End-to-end handling**: Complete management of flight disruption resolution
+
+## Technology Stack
+
+- **Sabre GDS**: Real-time inventory and booking system
+- **Claude AI**: Powered by Anthropic
+- **VocalBridge**: Voice layer for production and sandbox environments
+
+## Pages
+
+- https://voiceaiger-web.vercel.app/ — Landing page, waitlist signup, product overview
+
+## Waitlist
+
+https://voiceaiger-web.vercel.app/#waitlist

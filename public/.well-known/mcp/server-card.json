@@ -1,0 +1,9 @@
+{
+  "name": "VoiceAIger",
+  "description": "VoiceAIger is an AI-powered phone service that automatically calls travelers after flight disruptions to provide real-time rebooking options and hotel availability within seconds, eliminating the need for apps or hold music.",
+  "url": "https://voiceaiger-web.vercel.app",
+  "version": "0.1.0",
+  "capabilities": {
+    "tools": []
+  }
+}
