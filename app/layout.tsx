@@ -28,7 +28,7 @@ const jsonLd = [
     url: "https://voiceaiger-web.vercel.app",
     description:
       "VoiceAIger is an AI-powered phone service that automatically calls travelers after flight disruptions to provide real-time rebooking options and hotel availability within seconds, eliminating the need for apps or hold music.",
-    sameAs: [],
+    sameAs: ["https://github.com/ManojBaasha/voiceaiger-web"],
   },
   {
     "@context": "https://schema.org",
